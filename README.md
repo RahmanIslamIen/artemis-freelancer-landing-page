@@ -5,7 +5,7 @@
 # artemis-freelancer-landing-page
 
 <center>
-  <img src="screenshot/scr_01.png" />
+  <img src="screeenshot/scr_01.png" />
 </center>
 
 <p>landing page untuk website free lancer meski masih belum <b>responsive</b>. dapat digunakan 
